@@ -11,6 +11,7 @@ This page describes the overview of the projects in my github for easy understan
 - Music-adopter-prediction | R (Classification)
 - SHH-donation-prediciton | R (Regression)
 - Car-Evaluation | Python (Regression)
+- Hotel-Review-NLP | Python (NLP)
 
 ## Unsupervised Learning
 - Airline-client-segmentation | Python (Clustering)
